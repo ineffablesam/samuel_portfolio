@@ -40,4 +40,4 @@ I have Designed a one-page responsive personal portfolio layout for CSI-VITAP wh
   
 
 ©2021. All rights reserved by <a href="mailto:sam7075938131@gmail.com">Samuel philip</a> | <a href="https://wa.link/xailpg">Whatsapp ME!</a></p> 
-Designed with ❤️ by SaM 
+Designed with 🤍 by SaM 
