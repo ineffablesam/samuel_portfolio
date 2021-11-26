@@ -9,10 +9,10 @@ I have Designed a one-page responsive personal portfolio layout for CSI-VITAP wh
 
 <hr>
 
-<img src="https://i.ibb.co/QDmN0Jd/img1.png" alt="img1" border="4" width="100%"></a>
-<img src="https://i.ibb.co/jkKscMv/img2.png" alt="img2" border="4" width="100%"></a>
-<img src="https://i.ibb.co/DLT60M1/img3.png" alt="img3" border="4" width="100%"></a>
-<img src="https://i.ibb.co/LQY32t2/img4.png" alt="img4" border="4" width="100%"></a>
+<img src="https://i.ibb.co/QDmN0Jd/img1.png" alt="img1" border="4" width="95%"></a>
+<img src="https://i.ibb.co/jkKscMv/img2.png" alt="img2" border="4" width="95%"></a>
+<img src="https://i.ibb.co/DLT60M1/img3.png" alt="img3" border="4" width="95%"></a>
+<img src="https://i.ibb.co/LQY32t2/img4.png" alt="img4" border="4" width="95%"></a>
 
 <hr>
 
