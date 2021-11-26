@@ -8229,6 +8229,20 @@ body.template-color-1 {
 .header--sticky.sticky .mainmenu-nav .primary-menu li a {
   opacity: 0.5; }
 
+
+
+
+    #icon_switch,
+    {
+    width: 10px;
+    cursor: pointer;
+
+  }
+
+
+
+
+
 /*----------------------------
     Mobile Menu Styles
 ------------------------------*/
@@ -9892,7 +9906,7 @@ figcaption {
     .rn-content-wrapper .header-left .header-thumbnail img {
       border-radius: 15px;
       max-height: 200px;
-      border: 5px solid #1D1E24;
+      border: 50px solid #1D1E24;
       position: relative;
       top: -80px; }
     .rn-content-wrapper .header-left .header-info-content {
@@ -9936,7 +9950,7 @@ figcaption {
           content: '';
           background-color: #151517;
           position: absolute;
-          top: 106%;
+          top: 150%;
           right: 0;
           bottom: -13px;
           height: 1px;
@@ -11569,319 +11583,8 @@ div#featured-project-carousel {
     color: var(--color-lightn);
     margin-bottom: 9px; }
     @media only screen and (max-width: 575px) {
-      .rn-pricing .pricing-header .header-left h2.title {
-        font-size: 22px; } }
-  .rn-pricing .pricing-header .header-left span {
-    color: #7c838e;
-    font-family: var(--font-secondary); }
-  .rn-pricing .pricing-header .header-right span {
-    color: var(--color-primary);
-    font-size: 30px;
-    font-weight: 600;
-    padding: 9px 25px;
-    box-shadow: var(--shadow-1);
-    border-radius: 6px;
-    display: inline-block; }
 
-.rn-pricing .pricing-body p.description {
-  font-size: 18px;
-  line-height: 30px;
-  max-width: 84%;
-  font-weight: 400;
-  color: #7c838e;
-  font-family: var(--font-primary); }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .rn-pricing .pricing-body p.description {
-      margin-bottom: 30px; } }
-  @media only screen and (max-width: 767px) {
-    .rn-pricing .pricing-body p.description {
-      margin-bottom: 30px; } }
-  @media only screen and (max-width: 575px) {
-    .rn-pricing .pricing-body p.description {
-      margin-bottom: 30px;
-      font-size: 16px; } }
 
-.rn-pricing .pricing-body .check-wrapper {
-  justify-content: space-between;
-  display: flex; }
-  .rn-pricing .pricing-body .check-wrapper .left-area {
-    margin-bottom: 30px; }
-  .rn-pricing .pricing-body .check-wrapper .check {
-    margin-bottom: 15px; }
-    .rn-pricing .pricing-body .check-wrapper .check svg {
-      margin-top: 2px;
-      color: var(--color-lightn); }
-    .rn-pricing .pricing-body .check-wrapper .check p {
-      margin-left: 5px;
-      color: var(--color-lightn);
-      font-weight: 400;
-      font-size: 18px;
-      font-family: var(--font-secondary); }
-      @media only screen and (min-width: 992px) and (max-width: 1199px) {
-        .rn-pricing .pricing-body .check-wrapper .check p {
-          font-size: 16px; } }
-      @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .rn-pricing .pricing-body .check-wrapper .check p {
-          font-size: 16px; } }
-      @media only screen and (max-width: 767px) {
-        .rn-pricing .pricing-body .check-wrapper .check p {
-          font-size: 14px; } }
-      @media only screen and (max-width: 575px) {
-        .rn-pricing .pricing-body .check-wrapper .check p {
-          font-size: 13px; } }
-  @media only screen and (max-width: 479px) {
-    .rn-pricing .pricing-body .check-wrapper {
-      display: block; } }
-
-.rn-pricing .pricing-footer {
-  text-align: center;
-  margin-top: 50px; }
-  @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .rn-pricing .pricing-footer {
-      margin-top: 30px; } }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .rn-pricing .pricing-footer {
-      margin-top: 15px; } }
-  @media only screen and (max-width: 767px) {
-    .rn-pricing .pricing-footer {
-      margin-top: 15px; } }
-  .rn-pricing .pricing-footer .rn-btn {
-    display: flex;
-    margin-bottom: 25px;
-    letter-spacing: 1px;
-    font-family: var(--font-secondary);
-    padding: 20px 0; }
-    .rn-pricing .pricing-footer .rn-btn span {
-      margin-right: 5px;
-      font-size: 16px; }
-    .rn-pricing .pricing-footer .rn-btn svg {
-      transition: var(--transition); }
-    .rn-pricing .pricing-footer .rn-btn:hover svg {
-      margin-left: 10px; }
-  .rn-pricing .pricing-footer .time-line {
-    justify-content: center;
-    display: flex; }
-    @media only screen and (max-width: 479px) {
-      .rn-pricing .pricing-footer .time-line {
-        display: block !important;
-        padding-left: 5px; } }
-    .rn-pricing .pricing-footer .time-line .single-cmt {
-      margin-right: 15px;
-      display: flex; }
-      @media only screen and (max-width: 479px) {
-        .rn-pricing .pricing-footer .time-line .single-cmt:nth-child(2) {
-          margin-top: 5px; } }
-      .rn-pricing .pricing-footer .time-line .single-cmt svg {
-        width: 14px;
-        margin-right: 7px;
-        color: #9ca5b1;
-        margin-top: 2px; }
-      .rn-pricing .pricing-footer .time-line .single-cmt span {
-        font-size: 12px;
-        font-weight: 500;
-        color: #9ca5b1;
-        margin-top: 5px;
-        letter-spacing: 1px;
-        font-family: var(--font-secondary); }
-        @media only screen and (max-width: 479px) {
-          .rn-pricing .pricing-footer .time-line .single-cmt span {
-            font-size: 12px; } }
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  .rn-pricing-area .section-title {
-    margin-bottom: 50px; } }
-
-@media only screen and (max-width: 767px) {
-  .rn-pricing-area .section-title {
-    margin-bottom: 50px; } }
-
-@media only screen and (max-width: 479px) {
-  .rn-pricing-area .section-title {
-    margin-bottom: 10px; } }
-
-.rn-pricing-area .section-title h2.title {
-  margin-bottom: 0; }
-
-.sticky-top {
-  z-index: 10 !important; }
-
-.pricing-style-2 .title-area-wrapper {
-  margin-right: -20px; }
-  @media only screen and (max-width: 575px) {
-    .pricing-style-2 .title-area-wrapper {
-      margin-right: 0; } }
-  @media only screen and (max-width: 1199px) {
-    .pricing-style-2 .title-area-wrapper {
-      margin-right: 0; } }
-  .pricing-style-2 .title-area-wrapper .section-title {
-    margin-bottom: 0; }
-    .pricing-style-2 .title-area-wrapper .section-title h2.title {
-      margin-bottom: 40px; }
-      @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .pricing-style-2 .title-area-wrapper .section-title h2.title {
-          margin-bottom: 5px; } }
-  .pricing-style-2 .title-area-wrapper p {
-    font-size: 16px;
-    line-height: 28px;
-    color: var(--color-lightn);
-    margin: 0;
-    font-family: var(--font-secondary);
-    padding-right: 49px; }
-    @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .pricing-style-2 .title-area-wrapper p {
-        padding-right: 0; } }
-    @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .pricing-style-2 .title-area-wrapper p {
-        padding-right: 0; } }
-    @media only screen and (max-width: 767px) {
-      .pricing-style-2 .title-area-wrapper p {
-        padding-right: 0; } }
-    @media only screen and (max-width: 575px) {
-      .pricing-style-2 .title-area-wrapper p {
-        text-align: center;
-        padding-right: 0; } }
-    @media only screen and (max-width: 479px) {
-      .pricing-style-2 .title-area-wrapper p {
-        text-align: center;
-        padding-right: 0; } }
-    .pricing-style-2 .title-area-wrapper p.title-disc {
-      margin-bottom: 25px; }
-      @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .pricing-style-2 .title-area-wrapper p.title-disc {
-          margin-bottom: 8px; } }
-      @media only screen and (max-width: 767px) {
-        .pricing-style-2 .title-area-wrapper p.title-disc {
-          margin-bottom: 8px; } }
-      @media only screen and (max-width: 575px) {
-        .pricing-style-2 .title-area-wrapper p.title-disc {
-          text-align: center;
-          padding-right: 0; } }
-      @media only screen and (max-width: 479px) {
-        .pricing-style-2 .title-area-wrapper p.title-disc {
-          text-align: center;
-          padding-right: 0; } }
-
-.pricing-style-2 .pricing-wrapper,
-.pricing-style-2 .pricing-wrapper-pro {
-  margin-left: 20px;
-  position: relative;
-  z-index: 1;
-  padding: 40px;
-  box-shadow: var(--shadow-1);
-  border-radius: 10px; }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .pricing-style-2 .pricing-wrapper,
-    .pricing-style-2 .pricing-wrapper-pro {
-      margin-left: 0;
-      margin-right: 0;
-      margin-top: 30px; } }
-  @media only screen and (max-width: 767px) {
-    .pricing-style-2 .pricing-wrapper,
-    .pricing-style-2 .pricing-wrapper-pro {
-      margin-left: 0;
-      margin-right: 0;
-      margin-top: 30px; } }
-  @media only screen and (max-width: 1199px) {
-    .pricing-style-2 .pricing-wrapper,
-    .pricing-style-2 .pricing-wrapper-pro {
-      margin-left: 0; } }
-  .pricing-style-2 .pricing-wrapper::before,
-  .pricing-style-2 .pricing-wrapper-pro::before {
-    content: '';
-    position: absolute;
-    transition: var(--transition);
-    width: 100%;
-    height: 100%;
-    border-radius: 10px;
-    top: 0;
-    left: 0;
-    background: linear-gradient(to right bottom, #212428, #16181c);
-    opacity: 0;
-    z-index: -1; }
-  .pricing-style-2 .pricing-wrapper .ts-header,
-  .pricing-style-2 .pricing-wrapper-pro .ts-header {
-    margin-bottom: 30px; }
-    .pricing-style-2 .pricing-wrapper .ts-header h6,
-    .pricing-style-2 .pricing-wrapper-pro .ts-header h6 {
-      font-weight: 600;
-      font-size: 16px;
-      color: var(--color-white);
-      margin-bottom: 10px;
-      letter-spacing: 2px;
-      text-transform: uppercase; }
-    .pricing-style-2 .pricing-wrapper .ts-header span,
-    .pricing-style-2 .pricing-wrapper-pro .ts-header span {
-      color: var(--color-lightn);
-      font-size: 16px; }
-  .pricing-style-2 .pricing-wrapper .price,
-  .pricing-style-2 .pricing-wrapper-pro .price {
-    font-size: 36px;
-    font-family: var(--font-primary);
-    color: var(--color-lightest);
-    margin-bottom: 23px; }
-  .pricing-style-2 .pricing-wrapper .pricing-body,
-  .pricing-style-2 .pricing-wrapper-pro .pricing-body {
-    margin-bottom: 40px; }
-    .pricing-style-2 .pricing-wrapper .pricing-body .feature,
-    .pricing-style-2 .pricing-wrapper-pro .pricing-body .feature {
-      display: flex;
-      align-items: center;
-      margin-bottom: 10px; }
-      .pricing-style-2 .pricing-wrapper .pricing-body .feature svg,
-      .pricing-style-2 .pricing-wrapper-pro .pricing-body .feature svg {
-        margin-right: 10px;
-        position: relative;
-        background-color: var(--color-lightn);
-        border-radius: 50%;
-        background: none;
-        color: var(--color-lightn);
-        opacity: 0.8;
-        width: 22px; }
-        .pricing-style-2 .pricing-wrapper .pricing-body .feature svg.off,
-        .pricing-style-2 .pricing-wrapper-pro .pricing-body .feature svg.off {
-          color: #666666;
-          position: relative;
-          background-color: var(--color-lightn);
-          border-radius: 50%;
-          background: none; }
-      .pricing-style-2 .pricing-wrapper .pricing-body .feature .name,
-      .pricing-style-2 .pricing-wrapper-pro .pricing-body .feature .name {
-        color: var(--color-lightn);
-        font-weight: 400;
-        font-size: 16px; }
-        .pricing-style-2 .pricing-wrapper .pricing-body .feature .name.off,
-        .pricing-style-2 .pricing-wrapper-pro .pricing-body .feature .name.off {
-          color: #646669; }
-  .pricing-style-2 .pricing-wrapper .pricing-footer a.rn-btn,
-  .pricing-style-2 .pricing-wrapper-pro .pricing-footer a.rn-btn {
-    box-shadow: var(--shadow-1);
-    display: block;
-    text-align: center;
-    padding: 14px; }
-    .pricing-style-2 .pricing-wrapper .pricing-footer a.rn-btn::before,
-    .pricing-style-2 .pricing-wrapper-pro .pricing-footer a.rn-btn::before {
-      background: linear-gradient(to left top, #212428, #16181c); }
-
-.pricing-style-2 .pricing-wrapper-pro {
-  margin-left: 5px; }
-  .pricing-style-2 .pricing-wrapper-pro::before {
-    opacity: 0; }
-  .pricing-style-2 .pricing-wrapper-pro .pricing-footer a.rn-btn {
-    box-shadow: var(--shadow-1); }
-
-.pricing-style-2 .pricing-wrapper {
-  margin-right: -15px; }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .pricing-style-2 .pricing-wrapper {
-      margin-right: 0; } }
-  @media only screen and (max-width: 1199px) {
-    .pricing-style-2 .pricing-wrapper {
-      margin-right: 0; } }
-  @media only screen and (max-width: 767px) {
-    .pricing-style-2 .pricing-wrapper {
-      margin-right: 0;
-      margin-left: 0;
-      margin-top: 30px; } }
 
 /*---------------------------
     Contact Area Styles
