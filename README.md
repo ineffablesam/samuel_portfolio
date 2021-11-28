@@ -4,7 +4,7 @@
 # <b>PORTFOLIO | CSI-VITAP </b>
   My personal Portfolio for CSI-VITAP
 
-<h3> Site is published & Hosted at https://samgeekhere.github.io/samuel_portfolio/ </h3>
+<h3> Site is published & Hosted at https://samuelphilip.in/dark </h3>
 
 <a href="https://samuelphilip.in/dark"><img src="https://i.ibb.co/pQ2QJyk/dark-1.png" alt="dark-1" width="25%"></a>
 <a href="https://samuelphilip.in/light"><img src="https://i.ibb.co/vZrP2Df/light-1.png" alt="light-1" width="25%"></a>
