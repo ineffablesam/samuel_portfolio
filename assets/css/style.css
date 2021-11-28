@@ -8697,21 +8697,22 @@ a.rn-btn,
 button.rn-btn {
   display: inline-block;
   padding: 15px 35px;
+
   list-style: none;
   text-decoration: none;
   color: var(--color-primary); }
 
 a.rn-btn,
 button.rn-btn {
-  border-radius: 6px;
-  background: linear-gradient(145deg, #1e2024, #23272b);
+  border-radius: 25px;
+  background: linear-gradient(145deg, #f5f7fa, #b8c6db);
   box-shadow: var(--shadow-1);
   transition: var(--transition);
   position: relative;
   z-index: 2;
   font-size: 14px;
-  font-weight: 500;
-  border: 0 none; }
+  font-weight: 1000;
+  border: 1px linear-gradient(145deg, #b91372, #6b0f1a); }
   a.rn-btn::before,
   button.rn-btn::before {
     content: '';
@@ -8719,10 +8720,10 @@ button.rn-btn {
     transition: var(--transition);
     width: 100%;
     height: 100%;
-    border-radius: 6px;
+    border-radius: 25px;
     top: 0;
     left: 0;
-    background: linear-gradient(to right bottom, #212428, #16181c);
+    background: linear-gradient(to right bottom, #b8c6db, #f5f7fa);
     opacity: 0;
     z-index: -1; }
   a.rn-btn:hover,
@@ -13509,8 +13510,11 @@ Rn Slick Dots Style
 /*---------------------------
     white version home
 -----------------------------*/
+
+
 body.white-version {
   background-color: #ECF0F3; }
+
 
 .white-version .rn-content-wrapper .padding-tb {
   background: #fff; }
@@ -14602,5 +14606,10 @@ body.white-version {
 
 .white-version .slider-style-6 .cd-headline span {
   color: var(--color-white) !important; }
+
+
+
+}
+
 
 /*# sourceMappingURL=../maps/style.css.map */
