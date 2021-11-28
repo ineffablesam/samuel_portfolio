@@ -4,7 +4,7 @@
 # <b>PORTFOLIO | CSI-VITAP </b>
   My personal Portfolio for CSI-VITAP
 
-<h3> Site is published & Hosted at https://samuelphilip.in/dark </h3>
+<h3> Site is published & Hosted at <a href="https://samuelphilip.in/light">Light mode ☀️</a> & <a href="https://samuelphilip.in/dark">Dark mode 🌙 </a>https://samuelphilip.in/light</h3>
 
 <a href="https://samuelphilip.in/dark"><img src="https://i.ibb.co/pQ2QJyk/dark-1.png" alt="dark-1" width="25%" border="3" color="white"></a>
 <a href="https://samuelphilip.in/light"><img src="https://i.ibb.co/vZrP2Df/light-1.png" alt="light-1" width="25%" border="3" ></a>
