@@ -8077,7 +8077,7 @@ body.template-color-1 {
     transition: 0.3s; }
     @media only screen and (max-width: 767px) {
       .logo a img {
-        max-height: 54px; } }
+        width: 45%; } }
 
 @media only screen and (max-width: 1199px) {
   .rn-header .header-wrapper.menu-open #sideNav {
