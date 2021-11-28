@@ -5,6 +5,9 @@
   My personal Portfolio for CSI-VITAP
 
 <h3> Site is published & Hosted at https://samgeekhere.github.io/samuel_portfolio/ </h3>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pQ2QJyk/dark-1.png" alt="dark-1" ></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vZrP2Df/light-1.png" alt="light-1" ></a>
 I have Designed a one-page responsive personal portfolio layout for CSI-VITAP which can be utilized to demonstrate my experiences and work. This portfolio is well documented, very easy to use, Easily Customized, loads faster and provides better performance. #still in Development
 
 <hr>
@@ -33,9 +36,9 @@ I have Designed a one-page responsive personal portfolio layout for CSI-VITAP wh
 <ul>
 
 <hr>
-<a <href="https://vitap.ac.in"><img src="https://vitap.ac.in/wp-content/themes/vit/assets/images/formlogo.png" alt="vitap" width="250" height="110"> </a>
-<a <href="https://csivitap.co.in"><img src="https://csivitap.co.in/static/media/DP.5a1152f8.png" alt="vitap_csi" width="200" height="200" > </a>
-<a <href="https://wa.link/xailpg"><img src="https://i.ibb.co/vHW849r/Social-contribute-github.png" alt="Social-contribute-github" width=40% /> </a>
+<a href="https://vitap.ac.in"><img src="https://vitap.ac.in/wp-content/themes/vit/assets/images/formlogo.png" alt="vitap" width="250" height="110"> </a>
+<a href="https://csivitap.co.in"><img src="https://csivitap.co.in/static/media/DP.5a1152f8.png" alt="vitap_csi" width="200" height="200" > </a>
+<a href="https://wa.link/xailpg"><img src="https://i.ibb.co/vHW849r/Social-contribute-github.png" alt="Social-contribute-github" width=40% /> </a>
 
 <hr>
   
