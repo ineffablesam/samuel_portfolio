@@ -6,8 +6,8 @@
 
 <h3> Site is published & Hosted at <a href="https://samuelphilip.in/light">Light mode ☀️</a> & <a href="https://samuelphilip.in/dark">Dark mode 🌙 </a></h3>
 
-<a href="https://samuelphilip.in/dark"><img src="https://i.ibb.co/pQ2QJyk/dark-1.png" alt="dark-1" width="25%" border="3" color="white"></a>
-<a href="https://samuelphilip.in/light"><img src="https://i.ibb.co/vZrP2Df/light-1.png" alt="light-1" width="25%" border="3" ></a>
+<a href="https://samuelphilip.in/dark"><img src="https://i.ibb.co/pQ2QJyk/dark-1.png" alt="dark-1" width="25%" ></a>
+<a href="https://samuelphilip.in/light"><img src="https://i.ibb.co/vZrP2Df/light-1.png" alt="light-1" width="25%" ></a>
 
 <hr>
 I have Designed a one-page responsive personal portfolio layout for CSI-VITAP which can be utilized to demonstrate my experiences and work. This portfolio is well documented, very easy to use, Easily Customized, loads faster and provides better performance. #still in Development
