@@ -1,4 +1,4 @@
-<a href="https://ibb.co/N1kXNZX"><img src="https://i.ibb.co/N1kXNZX/favicon.png" alt="favicon" width="190" height="190"></a>
+<a><img src="https://i.ibb.co/w7Px9pT/AB4386-E3-2-BBF-4136-A094-DCA7760116-A7.png" alt="favicon" width="180" height="180"></a>
 
 
 # <b>PORTFOLIO | CSI-VITAP </b>
