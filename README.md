@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=samgeekhere&label=Profile%20views&color=0e75b6&style=flat" alt="samgeekhere" /> </p>
+
 <a><img src="https://i.ibb.co/w7Px9pT/AB4386-E3-2-BBF-4136-A094-DCA7760116-A7.png" alt="favicon" width="180" height="180"></a>
 
 
@@ -42,8 +44,6 @@ I have Designed a one-page responsive personal portfolio layout for CSI-VITAP wh
 <hr>
 <a href="https://vitap.ac.in"><img src="https://vitap.ac.in/wp-content/themes/vit/assets/images/formlogo.png" alt="vitap" width="250" height="110"> </a>
 <a href="https://csivitap.co.in"><img src="https://csivitap.co.in/static/media/DP.5a1152f8.png" alt="vitap_csi" width="200" height="200" > </a>
-<a href="https://wa.link/xailpg"><img src="https://i.ibb.co/vHW849r/Social-contribute-github.png" alt="Social-contribute-github" width=40% /> </a>
-
 <hr>
   
 
